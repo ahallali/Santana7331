@@ -1,1 +1,1 @@
-https://badge.mediaplus.ma/binary/ahallali
+<img src="https://badge.mediaplus.ma/binary/ahallali">
